@@ -1,21 +1,10 @@
-<h1 align="center">Salut, moi c'est Luka 👋</h1>
-
 <p align="center">
-  Étudiant en 3ᵉ année de BUT Informatique à Toulouse · Développement mobile & logiciel<br>
-  🔎 <b>À la recherche d'une alternance en développement</b>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=2E9EF7&center=true&vCenter=true&width=650&lines=Luka+Wacker;D%C3%A9veloppeur+logiciel;3e+ann%C3%A9e+de+BUT+Informatique+%C3%A0+Toulouse" alt="Luka Wacker" />
 </p>
 
-### 📜 Mon parcours, version Git
-
-```
-$ git log --oneline luka
-* 2026  (HEAD -> main) feat: recherche d'une alternance en développement 🚀
-* 2026  feat: stage React Native — appli de VTC, géolocalisation temps réel et paiement
-* 2025  feat: BUT Informatique à l'IUT Paul Sabatier, Toulouse
-* 2024  feat: co-fondation d'un club de dev mobile à Montréal, où j'enseigne React Native
-* 2023  feat: licence informatique à Montréal 🍁, coup de cœur pour React Native en hackathon
-* 2023  init: bac NSI + maths à Strasbourg 🥨
-```
+<p align="center">
+  🔎 <b>À la recherche d'une alternance ou d'un stage en développement</b>
+</p>
 
 ### 🛠️ Stack
 
@@ -23,11 +12,10 @@ $ git log --oneline luka
 <img src="https://skillicons.dev/icons?i=java,js,py,php,dart,html,css,mysql" />
 
 **Frameworks**<br>
-<img src="https://skillicons.dev/icons?i=react,flutter" />
-&nbsp;React Native · Flutter · Java Swing
+<img src="https://skillicons.dev/icons?i=spring,react,flutter" />
 
 **Outils**<br>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,androidstudio,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,eclipse,androidstudio,postman" />
 
 ### 🚀 Projets
 
@@ -39,11 +27,12 @@ $ git log --oneline luka
 
 ### 🌍 Langues
 
-🇫🇷 Français · 🇷🇺 Russe (natif) · 🇬🇧 Anglais C1 (IELTS 8.0) · 🇨🇳 Chinois A2 (HSK2)
+<img src="https://flagcdn.com/w20/fr.png" width="20" alt="FR" /> Français (natif) &nbsp;·&nbsp;
+<img src="https://flagcdn.com/w20/ru.png" width="20" alt="RU" /> Russe (natif) &nbsp;·&nbsp;
+<img src="https://flagcdn.com/w20/gb.png" width="20" alt="EN" /> Anglais C1 (IELTS 8.0) &nbsp;·&nbsp;
+<img src="https://flagcdn.com/w20/cn.png" width="20" alt="ZH" /> Chinois A2 (HSK2)
 
 ### 📫 Me contacter
 
 [![Email](https://img.shields.io/badge/Email-luka.wacker%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:luka.wacker@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luka_Wacker-0A66C2)](TON_LIEN_LINKEDIN)
-
-<sub>Hors du code : 🎬 cinéma · 🎮 jeux vidéo · ✈️ voyages · 🥾 randonnée</sub>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lukawacker-0A66C2)](https://www.linkedin.com/in/lukawacker/)
