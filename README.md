@@ -21,9 +21,10 @@
 
 | Projet | En bref | Stack |
 |---|---|---|
+| [bonplein](https://github.com/Marooneux/bonplein) 🚧 | Appli mobile pour trouver les stations-service les moins chères. Équipe de 7, Scrum. Projet en cours | Flutter · Dart |
 | [parking-toulouse](https://github.com/Marooneux/parking-toulouse) | Trouver un parking ou une place en voirie à Toulouse et payer son stationnement. Équipe de 4, Scrum sur 6 sprints | Java · Swing · MySQL · JUnit |
-| [gestion-equipe-esport](https://github.com/Marooneux/gestion-equipe-esport) | Gestion d'une équipe e-sport, découpée en 3 services : auth JWT, API REST et front | PHP · MySQL · JWT · OpenAPI |
 | [healthy-recipes](https://github.com/Marooneux/healthy-recipes) | Appli mobile de recettes saines avec recherche, filtres et traduction en 3 langues | Flutter · Dart · SQLite |
+| [gestion-equipe-esport](https://github.com/Marooneux/gestion-equipe-esport) | Gestion d'une équipe e-sport, découpée en 3 services : auth JWT, API REST et front | PHP · MySQL · JWT · OpenAPI |
 
 ### 🌍 Langues
 
